@@ -5,7 +5,7 @@
   },
   
     {
-      "name": "Nadun-Plugin",
+      "name": "Nadun's-Plugin",
       "entry": "./plugins/Nadun-plugin/plugin.js"
     }
   
