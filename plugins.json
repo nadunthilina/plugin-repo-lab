@@ -1,6 +1,13 @@
 [
   {
-    "name": "samples-Plugin",
+    "name": "sample-Plugin",
     "entry": "./plugins/sample-plugin/plugin.js"
-  }
+
+  },
+  
+    {
+      "name": "Nadun-Plugin",
+      "entry": "./plugins/Nadun-plugin/plugin.js"
+    }
+  
 ]
