@@ -2,12 +2,12 @@
   {
     "name": "sample-Plugin",
     "entry": "./plugins/sample-plugin/plugin.js"
+
   },
   
     {
-      "name": "Nadun's-Plugin",
+      "name": "Nadun-Plugin",
       "entry": "./plugins/Nadun-plugin/plugin.js"
     }
   
 ]
-
