@@ -1,6 +1,6 @@
 [
   {
-    "name": "Sample Plugin",
+    "name": "sample-Plugin",
     "entry": "./plugins/sample-plugin/plugin.js"
   }
 ]
